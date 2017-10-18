@@ -145,4 +145,8 @@
     <string name="weather_settings_options_title">Location settings</string>
     <string name="weather_settings_summary">Choose location and other settings</string>
 
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
+    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+
 </resources>
