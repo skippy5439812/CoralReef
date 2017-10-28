@@ -16,7 +16,7 @@
 
 <resources>
 
-    <string name="app_name" translatable="false">Dirty Tweaks</string>
+    <string name="app_name" translatable="false">CoralReef</string>
     <string name="hide_app_icon">Hide app</string>
     <string name="features_not_available">No features available for this category at the moment</string>
 
@@ -54,9 +54,9 @@
     <string name="statusbar_items_title">Statusbar items</string>
     <string name="statusbar_items_summary">Configure the visibility of statusbar items</string>
     <string name="ticker_title">Ticker</string>
-    <string name="ticker_summary">Enable the statusbar ticker and configure ticker related tweaks</string>
+    <string name="ticker_summary">Enable the statusbar ticker and configure ticker related coralreef</string>
     <string name="traffic_title">Traffic indicators</string>
-    <string name="traffic_summary">Enable traffic indicators on the statusbar and configure traffic related tweaks</string>
+    <string name="traffic_summary">Enable traffic indicators on the statusbar and configure traffic related coralreef</string>
     <!-- Navigation -->
     <string name="buttons_title">Buttons</string>
     <string name="buttons_summary">Configure hardware keys and/or volume rocker options</string>

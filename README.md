@@ -1,7 +1,7 @@
 Dirty Tweaks
 ==============
 
-A flexible, easy to use, all in one tweaks app for AOSP!
+A flexible, easy to use, all in one coralreef app for AOSP!
 
 ## License
 
