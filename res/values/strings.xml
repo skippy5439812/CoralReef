@@ -128,4 +128,7 @@
     <string name="double_tap_sleep_lockscreen">DT2S on lockscreen</string>
     <string name="double_tap_sleep_lockscreen_summary">Double-tap the lockscreen to put the device to sleep</string>
 
+    <!-- AOSP Gestures -->
+    <string name="gesture_settings_coralreef">Stock gestures</string>
+    <string name="gesture_settings_coralreef_summary">Optional device behavior linked to user actions can be turned on/off</string>
 </resources>
