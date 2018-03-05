@@ -50,7 +50,8 @@
         android:persistent="false" />
     </PreferenceCategory>
 
-    <PreferenceCategory
+<!-- COMMENT OUT UNTIL I HAVE TIME TO FIX THESE -->
+    <!--PreferenceCategory
             android:title="@string/heads_up_stoplist_title"
             android:key="stoplist_applications"
             android:dependency="heads_up_notifications_enabled" >
@@ -70,6 +71,7 @@
             android:icon="@drawable/ic_menu_add"
             android:title="@string/add_heads_up_package"
             android:summary="@string/add_heads_up_blacklist_summary" />
-    </PreferenceCategory>
+    </PreferenceCategory-->
+<!-- COMMENT OUT UNTIL I HAVE TIME TO FIX THESE -->
 
 </PreferenceScreen>
